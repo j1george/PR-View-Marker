@@ -27,7 +27,7 @@ function markAsViewed() {
     if (i >= fileViewToggleElements.length) {
         reset();
         if (fileViewToggleElements.length == 0) {
-            break;
+            return;
         }
     }
 
