@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  view some pr's
-// @author       You
+// @author       j1george
 // @match        https://github.com/*/pull/*
 // @icon         https://www.google.com/s2/favicons?domain=github.com
 // @grant        none
